@@ -1,6 +1,6 @@
-# 基于地理感知语义ID的生成式下一POI推荐（GAD-RQVAE）
+# 基于地理感知语义ID的生成式Next POI推荐（GA-SID）
 
-> Improving Generative Next POI Recommendation with Geography-Aware Semantic ID (GAD-RQVAE): pilot experiments on a KDD 2025 backbone
+> Improving Generative Next POI Recommendation with Geography-Aware Semantic ID (GA-SID): pilot experiments on a KDD 2025 backbone
 ---
 
 ## 1. Backbone 方法选定与不足分析
